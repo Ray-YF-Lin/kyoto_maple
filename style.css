@@ -76,7 +76,7 @@ img{
     background-repeat: no-repeat;
 }
 #home{ /*ID優先*/
-    background-image: url(../images/shisen.jpg); 
+    background-image: url(../shisen.jpg); 
     min-height:100vh; /*表示領域設定*/
 }
 #home.page-title{
