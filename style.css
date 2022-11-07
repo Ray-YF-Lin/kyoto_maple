@@ -282,7 +282,7 @@ aside p{
 }
 /*----------CONTACT----------*/
 #contact {
-    background-image: url(../images/contact_bg1.JPG);
+    background-image: url(./contact_bg1.JPG);
     min-height: 100vh;
 }
 /*----------from 問い合わせ----------*/
