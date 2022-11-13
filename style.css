@@ -370,7 +370,7 @@ iframe {
 }
 /*----------レスポンシブ対応 モバイル用----------*/
 
-@media (max-width: 600px) {
+@media (max-width: 450px) {
        
     .page-title{
         font-size: 2.5rem;
